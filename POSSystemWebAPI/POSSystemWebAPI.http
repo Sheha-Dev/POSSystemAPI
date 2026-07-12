@@ -1,0 +1,6 @@
+@POSSystemWebAPI_HostAddress = http://localhost:5276
+
+GET {{POSSystemWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
